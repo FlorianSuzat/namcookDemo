@@ -1,0 +1,4 @@
+ &NAMCT0
+   LSUSPECA_GP=.TRUE.,
+   LSUSPECA_GP_UV=.TRUE.,
+ /

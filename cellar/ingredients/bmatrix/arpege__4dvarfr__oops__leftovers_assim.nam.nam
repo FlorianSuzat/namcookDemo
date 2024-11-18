@@ -1,0 +1,15 @@
+ &NAMERRGRIBSCREEN
+   CLFILES(1)='errgrib.b_lnsp',
+   CLFILES(2)='errgrib.b_t',
+   CLFILES(3)='errgrib.b_u',
+   CLFILES(4)='errgrib.b_v',
+   CLFILES(5)='errgrib.b_vo',
+   CLFILES(6)='errgrib.b_q',
+   CLFILES(7)='errgrib.b_o3',
+   CLFILES(8)='errgrib.b_gh',
+   CLFILES(9)='errgrib.b_r',
+   CLFILES(10)='errgrib.b_ucln',
+   CLFILES(11)='errgrib.b_uctp',
+   CLFILES(12)='errgrib.b_ucdv',
+   CLFILES(13)='errgrib.b_btmp',
+ /

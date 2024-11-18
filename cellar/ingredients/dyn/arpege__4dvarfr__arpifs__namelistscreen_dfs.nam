@@ -1,0 +1,9 @@
+ &NAMDFI
+   NEDFI=6,
+   TAUS=10800.,
+ /
+ &NAMINI
+   LBIAS=.TRUE.,
+   LDFI=.TRUE.,
+   LINCR=.FALSE.,
+ /

@@ -1,0 +1,6 @@
+ &NAMFPC
+   NFPCLI=3,
+ /
+ &NAMFPIOS
+   CFPCLIFNAME(1)='Const.Clim',
+ /

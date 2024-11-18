@@ -1,0 +1,13 @@
+cellar/ingredients/bmatrix/arome__3dvarfr__arpifs__namel_screen_4d.nam: __all__
+cellar/ingredients/dyn/arpege__4dvarfr__arpifs__namelistscreen_dfs.nam: __all__
+cellar/ingredients/geometry/arome__3dvarfr__oops__naml_standard_geometry.nam: __all__
+cellar/ingredients/gom/arpege__4dvarfr__arpifs__namelistscreen_dfs.nam: __all__
+cellar/ingredients/io/arpege__4dvarfr__oops__linear_model_upd2.nam.nam: __all__
+cellar/ingredients/leftover/arpege__4dvarfr__arpifs__namelistscreen_dfs.nam: __all__
+cellar/ingredients/mwave/arome__pi__oops__naml_observations_aro.nam: __all__
+cellar/ingredients/obs/arpege__4dvarfr__arpifs__namelistscreen_dfs.nam: __all__
+cellar/ingredients/phys/arpege__4dvarfr__arpifs__namelistscreen_dfs.nam: __all__
+cellar/ingredients/surface/arome__3dvarfr__arpifs__namel_screen_4d.nam: __all__
+cellar/ingredients/varbc/arpege__4dvarfr__arpifs__namelistscreen_dfs.nam: __all__
+cellar/ingredients/variational/arpege__4dvarfr__arpifs__namelistscreen_dfs.nam: __all__
+void/arpifs/namvoid: __all__

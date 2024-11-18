@@ -1,0 +1,9 @@
+ &NAMFA
+   LSUPPDATE=.FALSE.,
+ /
+ &NAMIO_SERV
+   NPROC_IO=0,
+ /
+ &NAMOPH
+   CFNHWF='ECHIS',
+ /

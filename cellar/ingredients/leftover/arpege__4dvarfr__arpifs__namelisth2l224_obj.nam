@@ -1,0 +1,5 @@
+ &NAMAFN
+   TFP_RR%LLGP=.TRUE.,
+   TFP_SN%LLGP=.TRUE.,
+   TFP_TKE%LLGP=.TRUE.,
+ /

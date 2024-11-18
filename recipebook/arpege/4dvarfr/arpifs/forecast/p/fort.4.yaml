@@ -1,0 +1,11 @@
+cellar/ingredients/coupling/arpege__4dvarfr__arpifs__namelistfcp.nam: __all__
+cellar/ingredients/dia/arpege__4dvarfr__arpifs__namelistfc.nam: __all__
+cellar/ingredients/dyn/arome__3dvarfr__arpifs__namel_canari_surf.nam: __all__
+cellar/ingredients/fullpos/arpege__4dvarfr__arpifs__namelistfc.nam: __all__
+cellar/ingredients/geometry/arome__3dvarfr__oops__naml_standard_geometry.nam: __all__
+cellar/ingredients/io/arpege__4dvarfr__arpifs__namelistfcp.nam: __all__
+cellar/ingredients/leftover/arpege__4dvarfr__arpifs__namelistfcp.nam: __all__
+cellar/ingredients/obs/arome__3dvarfr__arpifs__namel_previ.nam: __all__
+cellar/ingredients/phys/arpege__4dvarfr__arpifs__namelistfcp.nam: __all__
+cellar/ingredients/surface/arome__3dvarfr__arpifs__namel_canari_surf.nam: __all__
+void/arpifs/namvoid: __all__

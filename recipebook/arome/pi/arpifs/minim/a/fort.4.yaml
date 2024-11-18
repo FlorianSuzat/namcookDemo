@@ -1,0 +1,11 @@
+cellar/ingredients/bmatrix/arome__3dvarfr__oops__naml_bmatrix_aro.nam: __all__
+cellar/ingredients/dyn/arome__3dvarfr__oops__naml_standard_geometry.nam: __all__
+cellar/ingredients/fullpos/arome__3dvarfr__arpifs__namel_minim.nam: __all__
+cellar/ingredients/geometry/arome__3dvarfr__oops__naml_standard_geometry.nam: __all__
+cellar/ingredients/leftover/arome__3dvarfr__arpifs__namel_minim.nam: __all__
+cellar/ingredients/mwave/arome__pi__arpifs__namel_minim.nam: __all__
+cellar/ingredients/obs/arome__3dvarfr__arpifs__namel_minim.nam: __all__
+cellar/ingredients/phys/arome__3dvarfr__arpifs__namel_minim.nam: __all__
+cellar/ingredients/varbc/arome__3dvarfr__arpifs__namel_minim.nam: __all__
+cellar/ingredients/variational/arome__3dvarfr__arpifs__namel_minim.nam: __all__
+void/arpifs/namvoid: __all__

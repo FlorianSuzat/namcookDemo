@@ -1,0 +1,4 @@
+ &NAMRIP
+   CSTOP='FCSTOP',
+   TSTEP='TIMESTEP',
+ /

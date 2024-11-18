@@ -1,0 +1,6 @@
+ &NAMVAR
+   LCLDSINK=.FALSE.,
+   LVARBC=.TRUE.,
+   MUPTRA=2,
+   NUPTRA=-1,
+ /

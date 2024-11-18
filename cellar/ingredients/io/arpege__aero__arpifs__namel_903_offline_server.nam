@@ -1,0 +1,7 @@
+ &NAMFA
+   CMODEL=__OUTPUTID__,
+   LEXTERN=.TRUE.,
+ /
+ &NAMFPIOS
+   CFAMODEL(1)=__FP_CMODEL__,
+ /

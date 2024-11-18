@@ -1,0 +1,5 @@
+ &NAMDYN
+   SIPR=100000.,
+   SITR=350.,
+   XIDT=0.,
+ /

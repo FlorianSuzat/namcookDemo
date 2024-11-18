@@ -1,0 +1,7 @@
+ &NAMFA
+   LSUPPDATE=.FALSE.,
+ /
+ &NAMOPH
+   CFNHWF='ECHIS',
+   NTIMEFMT=1,
+ /

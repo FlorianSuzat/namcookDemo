@@ -1,0 +1,7 @@
+ &NAERAD
+   LHGHG=.FALSE.,
+   LSRTM=.FALSE.,
+ /
+ &NAMPHY
+   LEDR=.TRUE.,
+ /

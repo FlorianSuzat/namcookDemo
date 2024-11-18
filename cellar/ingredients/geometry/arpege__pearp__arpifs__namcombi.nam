@@ -1,0 +1,4 @@
+ &NAMDIM
+   KSMAX=95,
+   LSETDIM=.TRUE.,
+ /

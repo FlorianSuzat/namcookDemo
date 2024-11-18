@@ -1,0 +1,9 @@
+ &NAERAD
+   LSRTM=.FALSE.,
+ /
+ &NAMARPHY
+   LMSE=.TRUE.,
+ /
+ &NAMPHY
+   LRAY=.FALSE.,
+ /

@@ -1,0 +1,5 @@
+ &NAMOBS
+   LMKCMARPL=.FALSE.,
+   LSLREJ=.TRUE.,
+   L_F_SCR_WORK_TS=.FALSE.,
+ /

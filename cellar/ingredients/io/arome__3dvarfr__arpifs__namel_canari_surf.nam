@@ -1,0 +1,7 @@
+ &NAMFA
+   YFAG='GRAUPEL',
+   YFAI='ICE_CRYSTAL',
+   YFAL='CLOUD_WATER',
+   YFAR='RAIN',
+   YFAS='SNOW',
+ /

@@ -1,0 +1,12 @@
+ &NAERAD
+   LSRTM=.FALSE.,
+ /
+ &NAMARPHY
+   LMSE=.FALSE.,
+ /
+ &NAMDVISI
+   HVISI=5.,
+ /
+ &NAMPHY
+   LRAY=.FALSE.,
+ /

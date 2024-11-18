@@ -1,0 +1,6 @@
+ &NAMMCUF
+   LMCUF=.TRUE.,
+   NCUFNR=2,
+   RMCUFI(1)=10800.,
+   RMCUFI(2)=21600.,
+ /

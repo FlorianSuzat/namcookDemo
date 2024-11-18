@@ -1,0 +1,6 @@
+ &NAMDIM
+   NPROMA=-14,
+ /
+ &NAMTRANS
+   LFFTW=.TRUE.,
+ /

@@ -1,0 +1,4 @@
+ &NADIRS
+   LBIASCORR=.FALSE.,
+   MODELE='ARPEGE',
+ /

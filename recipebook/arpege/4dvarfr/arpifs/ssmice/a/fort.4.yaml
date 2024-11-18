@@ -1,0 +1,7 @@
+cellar/ingredients/clim/arpege__4dvarfr__arpifs__namel_sst_sic.nam: __all__
+cellar/ingredients/dyn/arome__3dvarfr__oops__naml_standard_geometry.nam: __all__
+cellar/ingredients/geometry/arome__3dvarfr__oops__naml_standard_geometry.nam: __all__
+cellar/ingredients/io/arome__3dvarfr__arpifs__namel_interpol_water.nam: __all__
+cellar/ingredients/leftover/arpege__4dvarfr__arpifs__namel_ssmice.nam: __all__
+cellar/ingredients/phys/arome__3dvarfr__arpifs__namel_interpol_water.nam: __all__
+void/arpifs/namvoid: __all__

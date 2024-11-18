@@ -1,0 +1,4 @@
+ &NAMMCUF
+   LMCUF=.TRUE.,
+   LREACUF=.TRUE.,
+ /

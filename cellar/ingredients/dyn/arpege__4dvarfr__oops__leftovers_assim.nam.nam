@@ -1,0 +1,7 @@
+ &NAMDYNA
+   LDRY_ECMWF=.TRUE.,
+ /
+ &NAMINI
+   LBIAS=.TRUE.,
+   LINCR=.FALSE.,
+ /

@@ -1,0 +1,4 @@
+ &NAMDYNA
+   NPDVAR=2,
+   NVDVAR=4,
+ /

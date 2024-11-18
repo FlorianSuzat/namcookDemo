@@ -1,0 +1,8 @@
+cellar/ingredients/coupling/arpege__cpl__arpifs__e903.nam.nam: __all__
+cellar/ingredients/dyn/arpege__cpl__arpifs__e903_noMCUF.nam.nam: __all__
+cellar/ingredients/fullpos/arpege__cpl__arpifs__e903_noMCUF.nam.nam: __all__
+cellar/ingredients/geometry/arome__3dvarfr__oops__naml_standard_geometry.nam: __all__
+cellar/ingredients/io/arpege__cpl__arpifs__e903_noMCUF.nam.nam: __all__
+cellar/ingredients/leftover/arpege__cpl__arpifs__e903_noMCUF.nam.nam: __all__
+cellar/ingredients/phys/arpege__cpl__arpifs__e903_noMCUF.nam.nam: __all__
+void/arpifs/namvoid: __all__

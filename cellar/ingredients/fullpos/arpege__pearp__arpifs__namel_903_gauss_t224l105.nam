@@ -1,0 +1,6 @@
+ &NAMFPSC2
+   NFPROMA=-24,
+ /
+ &NAMFPSC2_DEP
+   NFPROMA_DEP=-24,
+ /

@@ -1,0 +1,6 @@
+ &NAMDDH
+   LHDEFZ=.TRUE.,
+   LHDHKS=.TRUE.,
+   LHDZON=.TRUE.,
+   NDHKD=30,
+ /

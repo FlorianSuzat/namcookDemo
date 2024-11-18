@@ -1,0 +1,16 @@
+ &BUFR
+ /
+ &GRIB
+ /
+ &HDF5
+ /
+ &NADIRS
+ /
+ &NAMDYNCORE
+ /
+ &NAMSATFREQ
+ /
+ &NAMSCEN
+ /
+ &NETCDF
+ /

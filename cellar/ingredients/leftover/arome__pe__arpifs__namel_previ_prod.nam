@@ -1,0 +1,6 @@
+ &NAMGFL
+   NACTAERO=12,
+ /
+ &NAMXFU
+   LXSNOWDEPTH=.TRUE.,
+ /

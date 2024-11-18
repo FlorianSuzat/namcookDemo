@@ -1,0 +1,4 @@
+ &NAMFPC
+   LFPCAPEX=.TRUE.,
+   NFPCLI=1,
+ /

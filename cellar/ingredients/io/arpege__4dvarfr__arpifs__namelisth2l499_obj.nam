@@ -1,0 +1,4 @@
+ &NAMFPIOS
+   CFPCLIFNAME(1)='./const.clim.globalupd499',
+   NFPXFLD=107,
+ /
